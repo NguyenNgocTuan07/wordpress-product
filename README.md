@@ -1,0 +1,3 @@
+#wordpress user
+user
+bitnami
